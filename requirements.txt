@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+networkx
+statsmodels
+ete3
+seaborn
