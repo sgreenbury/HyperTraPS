@@ -28,7 +28,7 @@ If you are working within an anaconda environment, you can install these with th
    
 Or for any python2 environment with PyPI
 
-    pip2 install -r requirements.txt --user
+    pip install -r requirements.txt --user
    
 
 ## Dataset format
