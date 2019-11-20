@@ -22,14 +22,21 @@ which will create the necessary local folders and compile the C++ source to bina
 
 A python2 environment is required with packages required for full functionality provided in _requirements.txt_.
 
-If you are working within an anaconda environment, you can install these with the command
+If you are working within an anaconda environment, you can install these into a "HyperTraPS" environment with the command
 
-    ./conda_requirements.sh
+    conda env create --name HyperTraPS --file conda_requirements.yml
    
 Or for any python2 environment with PyPI
 
     pip install -r requirements.txt --user
+
+## Tutorial
+
+More detailed information on the full usage of the package is outlined in the sections below. However, a Jupyter Notebook is also available in:
+
+    notebooks/HyperTraPS_tutorial.ipynb
    
+with an example case performing HyperTraPS inference on a sythetic cross-sectional dataset to illustrate functionality.
 
 ## Dataset format
 
