@@ -4,7 +4,8 @@ This software provides the computational tools to perform statistical inference 
 
 The methodology is described and used in the following papers:
 
-* [Inferring high-dimensional pathways of trait acquisition in evolution and disease](https://doi.org/10.1101/409656)
+* [HyperTraPS: Inferring probabilistic patterns of trait acquisition in evolutionary and disease progression pathways](https://doi.org/10.1016/j.cels.2019.10.009)\
+([Cell Systems](https://doi.org/10.1016/j.cels.2019.10.009) or [arXiv](https://arxiv.org/abs/1912.00762))
 * [Evolutionary Inference across Eukaryotes Identifies Specific Pressures Favoring Mitochondrial Gene Retention](https://doi.org/10.1016/j.cels.2016.01.013)
 * [Precision identification and prediction of high mortality phenotypes and disease progression pathways in severe malaria without requiring longitudinal data](https://doi.org/10.1101/425132)
 
